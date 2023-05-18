@@ -1,0 +1,17 @@
+# .gitignore file for a .NET Core project
+
+# Binary and intermediate output
+bin/
+obj/
+**/bin/
+**/obj/
+
+
+# User-specific files
+**/.vscode/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
